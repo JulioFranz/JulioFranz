@@ -10,3 +10,46 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td width="33.33%">
+      <h3 align="center">SmartHome IoT</h3>
+      <div align="center">
+        <a href="https://github.com/JulioFranz/smarthouse-iot" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Real-time IoT presence & lighting simulation.</strong></p>
+        <p>Full Stack Project</p>
+        <p>
+          <code>Python</code> <code>FastAPI</code> <code>WebSockets</code> <code>JavaScript</code> <code>HTML5</code>
+        </p>
+      </div>
+    </td>
+    <td width="33.33%">
+      <h3 align="center">GoogleMaps PhoneScraper</h3>
+      <div align="center">
+        <a href="https://github.com/JulioFranz/GoogleMaps_PhoneScraper" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Automates business phone extraction from Google Maps.</strong></p>
+        <p>Automation Project</p>
+        <p>
+          <code>Python</code>
+        </p>
+      </div>
+    </td>
+    <td width="33.33%">
+      <h3 align="center">Pima SVM Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/JulioFranz/pima-svm-analysis" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+        </a>
+        <p><strong>Analyze and predict diabetes with SVM.</strong></p>
+        <p>Machine Learning Project</p>
+        <p>
+          <code>Python</code> <code>Scikit-Learn</code> <code>NumPy</code> <code>Pandas</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
