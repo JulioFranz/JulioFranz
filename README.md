@@ -1,6 +1,11 @@
 #  Sobre Mim:
- -  Atualmente na **General Truck**, atuando na supervisão de TI e no desenvolvimento de soluções estratégicas desde janeiro de 2025.<br>-  Meu foco técnico principal é o **Python** 🐍, utilizando a linguagem para automatizar processos e gerenciar infraestrutura.<br>-  Procuro colaborar em projetos que envolvam **Python** aplicado a ambientes corporativos e gestão de serviços de TI.<br>-  No momento, estou aprofundando conhecimentos em **FastAPI** e arquiteturas escaláveis para otimizar meus conhecimentos.<br>-  Pergunte-me sobre **Python**, gestão de projetos de TI ou como otimizar fluxos de trabalho em grandes operações.<br>-  Curiosidade: Tenho **2,02m** de altura, então se o código não for "alto nível", pelo menos o desenvolvedor é!
 
+\- Atualmente na **General Truck**, atuando na supervisão de TI e no desenvolvimento de soluções estratégicas desde janeiro de 2025.<br>
+\- Meu foco técnico principal é o **Python** 🐍, utilizando a linguagem para automatizar processos e gerenciar infraestrutura.<br>
+\- Procuro colaborar em projetos que envolvam **Python** aplicado a ambientes corporativos e gestão de serviços de TI.<br>
+\- No momento, estou aprofundando conhecimentos em **FastAPI** e arquiteturas escaláveis para otimizar meus conhecimentos.<br>
+\- Pergunte-me sobre **Python**, gestão de projetos de TI ou como otimizar fluxos de trabalho em grandes operações.<br>
+\- Curiosidade: Tenho **2,02m** de altura, então se o código não for "alto nível", pelo menos o desenvolvedor é!
 
 ##  Links Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franzjulio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juliofranzdev@gmail.com) 
