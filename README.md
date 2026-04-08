@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Projetos:
 <table>
   <tr>
     <td width="33.33%">
@@ -18,7 +18,7 @@
         <a href="https://github.com/JulioFranz/smarthouse-iot" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
-        <p><strong>Real-time IoT presence & lighting simulation.</strong></p>
+        <p><strong>Simulação de presença e iluminação IoT em tempo real.</strong></p>
         <p>Full Stack Project</p>
         <p>
           <code>Python</code> <code>FastAPI</code> <code>WebSockets</code> <code>JavaScript</code> <code>HTML5</code>
@@ -31,7 +31,7 @@
         <a href="https://github.com/JulioFranz/GoogleMaps_PhoneScraper" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
-        <p><strong>Automates business phone extraction from Google Maps.</strong></p>
+        <p><strong>Extração automatica de números de telefone comerciais do Google Maps.</strong></p>
         <p>Automation Project</p>
         <p>
           <code>Python</code>
@@ -44,7 +44,7 @@
         <a href="https://github.com/JulioFranz/pima-svm-analysis" target="_blank">
           <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
         </a>
-        <p><strong>Analyze and predict diabetes with SVM.</strong></p>
+        <p><strong>Analise e previsão a diabetes com SVM.</strong></p>
         <p>Machine Learning Project</p>
         <p>
           <code>Python</code> <code>Scikit-Learn</code> <code>NumPy</code> <code>Pandas</code>
