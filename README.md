@@ -1,6 +1,6 @@
 #  Sobre Mim:
 
-\- Atualmente na **General Truck**, atuando na supervisão de TI e no desenvolvimento de soluções estratégicas desde janeiro de 2025.<br>
+\- Atualmente na **LEFS**, atuando na supervisão de TI e no desenvolvimento de soluções estratégicas desde janeiro de 2025.<br>
 \- Meu foco técnico principal é o **Python** 🐍, utilizando a linguagem para automatizar processos e gerenciar infraestrutura.<br>
 \- Colaboro em projetos que envolvam **Python** aplicado a ambientes corporativos e gestão de serviços de TI.<br>
 \- No momento, estou aprofundando conhecimentos em **FastAPI** e arquiteturas escaláveis para otimizar meus conhecimentos.<br>
