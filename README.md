@@ -1,10 +1,10 @@
-# 👋 Sobre Mim:
+#  Sobre Mim:
 
 \- Atualmente na **LEFS**, atuando na supervisão de TI e na liderança técnica no desenvolvimento de soluções estratégicas desde janeiro de 2025.<br>
 \-  Fui o responsável pelo desenvolvimento do **Sistema de Gerenciamento Interno** da empresa e também desenvolvi o nosso **[Sistema B2B](https://b2b.lefsportal.com/)**.<br>
 \- Meu foco técnico principal é o **Python** 🐍, utilizando a linguagem para automatizar processos, criar backends robustos (como no desenvolvimento do meu sistema **LIMS**) e gerenciar infraestrutura corporativa.<br>
 \- No momento, estou aprofundando conhecimentos em **FastAPI**, arquiteturas escaláveis e focado na construção do **OUTLR**, um e-commerce curatorial utilizando Django e React.js.<br>
-\- Tenho forte base acadêmica, tendo aplicado conceitos de visão computacional na minha pesquisa de Iniciação Científica (PIBIC).<br>
+\- Tenho base acadêmica, tendo aplicado conceitos de visão computacional na minha pesquisa de Iniciação Científica (PIBIC).<br>
 \- Pergunte-me sobre **Python**, gestão de projetos de TI, ou como otimizar fluxos de trabalho em grandes operações.<br>
 \- Curiosidade: Tenho **2,02m** de altura, então se o código não for "alto nível", pelo menos o desenvolvedor é!
 
@@ -19,7 +19,7 @@
 
 *   **[Portal B2B LEFS](https://b2b.lefsportal.com/)**: Desenvolvimento completo de plataforma corporativa Business-to-Business para negociação e gestão de pedidos.
 *   **Sistema de Gerenciamento Interno (LEFS)**: Criação de um sistema robusto para unificar, automatizar e gerir os fluxos operacionais internos da companhia.
-*   **OUTLR**: Desenvolvimento full-stack (Django + React) de um e-commerce curatorial inovador focado em biótipos fora do padrão.
+*   **OUTLR**: Desenvolvimento full-stack (Django + React) de um e-commerce curatorial inovador.
 *   **LIMS (Laboratory Information Management System)**: Estudo técnico e desenvolvimento de arquitetura para gerenciamento laboratorial.
 
 
